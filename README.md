@@ -1,5 +1,1 @@
-I'm Numan, main focus on React Native, React JS and Node js [LinkedIn Profile][2], [Stackoverflow][3], [Instagram][1]
-
-  [1]: https://www.instagram.com/iamnuman10/
-  [2]: https://www.linkedin.com/in/nomi9995/
-  [3]: https://stackoverflow.com/users/8079868/muhammad-numan?tab=profile
+**React Native**, **React JS** and **Node js**.  [![Website](https://img.shields.io/website?label=numan.dev&style=flat-square&url=https://numan.dev)](https://numan.dev) [![Email Badge](https://img.shields.io/badge/stackoverflow-black?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8079868/muhammad-numan?tab=profil) [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josesousaneto/)](https://www.linkedin.com/in/nomi9995) [![Email Badge](https://img.shields.io/badge/muhammadnuman70@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammadnuman70@gmail.com)](mailto:muhammadnuman70@gmail.com)
