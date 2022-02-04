@@ -1,4 +1,20 @@
-**React Native**, **React JS** and **Node js**. [![Website](https://img.shields.io/website?label=numan.dev&style=flat-square&url=https://numan.dev)](https://numan.dev) [![Email Badge](https://img.shields.io/stackexchange/stackoverflow/r/8079868?label=StackOverFlow&logo=stackoverflow)](https://stackoverflow.com/users/8079868/muhammad-numan?tab=profile) [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josesousaneto/)](https://www.linkedin.com/in/nomi9995) [![Email Badge](https://img.shields.io/badge/muhammadnuman70@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammadnuman70@gmail.com)](mailto:muhammadnuman70@gmail.com)
+# Connect with me :speech_balloon:
+
+<p align="center">
+<img
+    src="https://github-readme-stackoverflow.vercel.app/?userID=8079868"
+  />
+</p>
+
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/nomi9995) [<img src="https://img.shields.io/website?label=numan.dev&style=for-the-badge&logo=google%20chrome&url=https://numan.dev">](https://numan.dev) [<img src="https://img.shields.io/badge/muhammadnuman70@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:muhammadnuman70@gmail.com">](mailto:muhammadnuman70@gmail.com)
+
+# Languages and Tools 🛠
+  <div display="flex">
+    <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/react/react%20native%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-43853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+  </div>
 
 # Repositories
 
