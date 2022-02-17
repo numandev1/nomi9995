@@ -1,9 +1,7 @@
 # Connect with me :speech_balloon:
 
 <p align="center">
-<img
-    src="https://github-readme-stackoverflow.vercel.app/?userID=8079868"
-  />
+<a href="https://stackoverflow.com/users/8079868/muhammad-numan"><img src="https://github-readme-stackoverflow.vercel.app/?userID=8079868" /></a>
 </p>
 
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/nomi9995) [<img src="https://img.shields.io/website?label=numan.dev&style=for-the-badge&logo=google%20chrome&url=https://numan.dev">](https://numan.dev) [<img src="https://img.shields.io/badge/muhammadnuman70@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:muhammadnuman70@gmail.com">](mailto:muhammadnuman70@gmail.com)
